@@ -4,8 +4,8 @@
 This repository contains alliants' codekatas. These are exercises and test set for members of our development team - as well as coding exercises set for non-programmers.
 
 ## Kata Contents
-1. [Fizz Buzz](http://github.com/Alliants/codekata/01_FizzBuzz)
-2. [Roman Numerals](https://github.com/Alliants/codekata/02_RomanNumerals)
+1. [Fizz Buzz](https://github.com/Alliants/codekata/tree/master/01_FizzBuzz)
+2. [Roman Numerals](https://github.com/Alliants/codekata/tree/master/02_RomanNumerals)
 3. TBC!
 
 ## Instructions

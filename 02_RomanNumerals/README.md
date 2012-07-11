@@ -11,7 +11,7 @@ So instead of saying 1, 2, Fizz, 4, 5, Fizz, Buzz... you would say "i, i i, Fizz
 ## Ruby Challenge
 Add the correct method to the FizzBuzz program so it outputs the results shown in the previous writeup.
 
-Link to program [fizzroman.rb](http://github.com/Alliants/codekata/02_RomanNumerals/fizzroman.rb)
+Link to program [fizzroman.rb](https://github.com/Alliants/codekata/blob/master/02_RomanNumerals/fizzroman.rb)
 
 ## Solution
 To be provided by Tuesday 10th July 2012.
