@@ -10,12 +10,12 @@ This repository contains alliants' codekatas. These are exercises and test set f
 
 ## Instructions
 
-Make sure you have git set-up correctly
+Make sure you have git set-up correctly!
 
     git config --global user.name "Your Name Here"
     git config --global user.email "youremail@server.com"
 
-Clone the repository and create a branch to work with. Use the branching structure
+Clone the repository and create a working branch. Use the branching structure syntax below!
 
     git clone
     git checkout -b "initials_testnumber_nameofbranch"
@@ -29,6 +29,15 @@ Go into the folder of the test you want to do. In that folder create a folder wi
     mkdir lee-jon
     mkdir hatchws
 
-Keep all files in that folder. Issue a pull request back to the repository once you're done.
+Keep all files in that folder. On your last commit, push branch to the repo and ssue a pull request back to the repository once you're done. You should never bemerging to master!
+
+  git add .
+  git commit "add lee-jon's solution to the second exercise"
+
+  git push origin ljb_001_if_else_solution
+
+Pull requests are done within github. [Go to the repo](https://github.com/Alliants/codekata) and select your branch from the branches. Then click pull request above.
+
+The submissions will be reviewed and merged to master by Dan, Joe or Lee-Jon.
 
 Happy hacking!
